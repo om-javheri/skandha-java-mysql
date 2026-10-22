@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skandha-java-mysql.onrender.com/sitemap.xml
